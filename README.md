@@ -1,195 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:38bdf8&height=230&section=header&text=Sancho%20Pedro%20Xavier&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Epidemiology%20%C2%B7%20Health%20Economics%20%C2%B7%20Data%20Science&descAlignY=60&descSize=18" width="100%" alt="Sancho Pedro Xavier banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0e7490,100:38bdf8&height=260&section=header&text=SANCHO%20XAVIER&fontColor=ffffff&fontSize=62&fontAlignY=42&desc=Epidemiology%20%C2%B7%20Machine%20Learning%20%C2%B7%20Health%20Technology%20Assessment&descAlignY=64&descSize=17&animation=fadeIn" width="100%" alt="Sancho Xavier"/>
 
-**Pharmacist by training. Epidemiologist by choice. Data person by habit.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Pharmacist+by+training.;Epidemiologist+by+choice.;Data+person+by+habit.;Predicting+outcomes%2C+one+calibrated+model+at+a+time." alt="Typing animation"/></a>
 
-[![PhD](https://img.shields.io/badge/PhD%20Candidate-University%20of%20S%C3%A3o%20Paulo-0e7490?style=for-the-badge)](https://github.com/sancho2023)
-[![Specialization](https://img.shields.io/badge/HTA-UNICAMP%202026--27-1d4ed8?style=for-the-badge)](https://github.com/sancho2023)
-[![Reviewer](https://img.shields.io/badge/Peer%20Reviewer-9%20journals-7c3aed?style=for-the-badge)](https://github.com/sancho2023)
-[![Works](https://img.shields.io/badge/ORCID-39%20works-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
+<br>
 
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Lattes](https://img.shields.io/badge/Lattes-CV-1e3a8a?style=flat-square)](http://lattes.cnpq.br/SEU-ID-LATTES)
-[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Profile-5e33bf?style=flat-square&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/SEU-ID)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SEU-ID)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/SEU-PERFIL)
+[**About**](#-about) · [**Research**](#-research-lines) · [**Data**](#-data-sources) · [**Toolbox**](#-toolbox) · [**Publications**](#-selected-publications) · [**Roadmap**](#-roadmap) · [**Contact**](#-contact)
+
+<br>
+
+[![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Lattes](https://img.shields.io/badge/Lattes-1e3a8a?style=for-the-badge)](http://lattes.cnpq.br/SEU-ID-LATTES)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-5e33bf?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/SEU-ID)
+[![Scholar](https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SEU-ID)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/SEU-PERFIL)
 
 </div>
 
----
+<br>
 
-## Hello
-
-I'm a PhD candidate in Public Health at the **University of São Paulo** (Faculty of Public Health), studying the epidemiology of diseases and health conditions and what determines them. I came to this field through Pharmacy in Mozambique, moved to Brazil for my Master's, and kept adding tools along the way: first epidemiology, then data science, now health economics.
-
-Most days I'm writing R or Python, cleaning messy health data, and trying to answer one question: *what does the evidence actually say, and how sure are we?*
-
-> Quantitative methods are only useful if someone can trust, reproduce and act on the result.
-
-**Quick facts**
-
-- Master's in Public Health (UFMT) and MBA in Data Science and Analytics (USP)
-- Working across two settings: Brazil (cancer, maternal and child health, hospital data) and Mozambique and sub-Saharan Africa (child health, antimicrobial resistance, chronic disease)
-- Teaching Assistant in Pharmacy at Zambeze University since 2022
-- Reviewer for BMJ Open, PLOS Global Public Health, Scientific Reports, BMC Public Health and others
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>39</h2><sub>works on ORCID</sub></td>
+<td align="center" width="25%"><h2>9</h2><sub>journals reviewed for</sub></td>
+<td align="center" width="25%"><h2>2</h2><sub>continents of data<br>Brazil · Africa</sub></td>
+<td align="center" width="25%"><h2>3</h2><sub>degrees + MBA<br>+ HTA in progress</sub></td>
+</tr>
+</table>
 
 ---
 
-## Affiliations and research groups
+## 👤 About
 
-| Group | Role in my work |
-|---|---|
-| **AI for oncologic prognosis**, Faculty of Public Health, University of São Paulo | Machine learning and survival models for cancer outcomes |
-| **VigiCan UFMT**, Cancer Surveillance in Mato Grosso, Federal University of Mato Grosso | Cancer surveillance, incidence trends, hospital and population-based cancer data |
-| **Zambeze University**, Faculty of Health Sciences (Pharmacy) | Teaching and collaboration on health research in Mozambique |
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a **PhD candidate in Public Health at the University of São Paulo**, where I study the epidemiology of diseases and health conditions and what determines them.
+
+My path went from Pharmacy in Mozambique to a Master's in Public Health in Mato Grosso, then an MBA in Data Science, and now a PhD, with Health Technology Assessment on the side. Each step added a tool, and I still use all of them.
+
+Most days I'm in R or Python, cleaning messy health data and asking: *what does the evidence actually say, and how sure are we?*
+
+> Quantitative methods only matter if someone can trust, reproduce and act on the result.
+
+</td>
+<td width="38%" valign="top">
+
+**Now**
+
+- 🎓 PhD candidate, FSP-USP
+- 📚 Specialization in Health Economics and HTA, UNICAMP
+- 🧑‍🏫 Teaching Assistant, Pharmacy, Zambeze University
+- 🔬 AI for oncologic prognosis · VigiCan UFMT
+
+**Based in** São Paulo, Brazil
+**From** Mozambique
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Research interests
+## 🧬 Research lines
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎗️ Cancer prognosis
+Survival and risk prediction for cervical, breast and colorectal cancer using hospital and linked population-based data in Mato Grosso.
+
+`survival` `nomograms` `ML`
+
+</td>
+<td width="33%" valign="top">
+
+### 👶 Mother and child
+Under-five mortality, low birth weight, preterm birth, childhood anemia and vaccination, and the inequalities behind them.
+
+`DHS` `SINASC` `cohorts`
+
+</td>
+<td width="33%" valign="top">
+
+### 💊 Antimicrobial resistance
+Antibiotic prescribing in children, inappropriate use and the WHO AWaRe framework, with evidence synthesis across Africa.
+
+`pharmacoepi` `meta-analysis`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🫀 Chronic diseases
+Prevalence and determinants of non-communicable diseases, from prisons in Mozambique to low and middle income countries.
+
+`NCDs` `cross-sectional`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Predictive modeling
+Risk stratification where discrimination, calibration and clinical usefulness matter more than a high AUC.
+
+`calibration` `validation`
+
+</td>
+<td width="33%" valign="top">
+
+### 💶 Health economics
+Evidence for decisions about technologies and health services. My formal training at UNICAMP.
+
+`HTA` `management`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ Data sources
+
+| | Source | What it gives me |
+|:-:|---|---|
+| 🌍 | **DHS** | Demographic and Health Surveys: child mortality, anemia, vaccination, nutrition in sub-Saharan Africa |
+| 🦟 | **MIS** | Malaria Indicator Surveys, used alongside DHS household data |
+| 🇧🇷 | **DATASUS** | Brazilian national systems for mortality, births and hospital admissions |
+| 🎗️ | **INCA · RCBP** | Population-based cancer registries: incidence, trends, survival |
+| 🏥 | **FOSP · RHC** | Hospital-based cancer registry: stage at diagnosis, treatment, outcomes |
+| 🔗 | **Linked administrative data** | Registry-to-mortality and other record linkages for follow-up |
+| 🧪 | **Cohorts and field studies** | Birth cohorts and primary cross-sectional data |
+
+---
+
+## ⚙️ How I work
 
 ```mermaid
-mindmap
-  root((Sancho Xavier))
-    Cancer epidemiology
-      Cervical and breast cancer
-      Colorectal cancer
-      Survival and prognosis
-      Nomograms
-    Maternal and child health
-      Infant and under-five mortality
-      Low birth weight and preterm birth
-      Childhood anemia
-      Vaccination inequalities
-    Antimicrobial resistance
-      Antibiotic prescribing in children
-      WHO AWaRe classification
-      Systematic reviews in Africa
-    Chronic diseases
-      Non-communicable diseases
-      Prison populations
-      Low and middle income countries
-    Health economics
-      Health Technology Assessment
-      Management of health systems
-    Prediction and ML
-      Risk stratification
-      Calibration and validation
-```
-
-| Theme | What I study |
-|---|---|
-| **Cancer prognosis** | Survival and risk prediction in cervical, breast and colorectal cancer, using hospital and linked population-based data in Mato Grosso |
-| **Maternal and child health** | Under-five mortality, low birth weight, preterm birth, childhood anemia, vaccination coverage and the social inequalities behind them |
-| **Antimicrobial resistance and pharmacoepidemiology** | Antibiotic prescribing patterns in children, inappropriate use, the WHO AWaRe framework |
-| **Non-communicable chronic diseases** | Prevalence and determinants across settings, from prisons in Mozambique to low and middle income countries |
-| **Predictive modeling** | Nomograms, survival models and machine learning, always judged on discrimination and calibration |
-| **Health economics and HTA** | Evidence for decisions about technologies and health services, now my formal training at UNICAMP |
-
----
-
-## Data sources I work with
-
-| Source | What it is | Used for |
-|---|---|---|
-| **DHS** | Demographic and Health Surveys | Child mortality, anemia, vaccination, nutrition in sub-Saharan Africa |
-| **MIS** | Malaria Indicator Surveys | Household survey data alongside DHS in African countries |
-| **DATASUS** | Brazilian national health information systems (mortality, births, hospital admissions) | Mortality, preterm birth, hospital outcomes |
-| **INCA, RCBP** | Population-based cancer registries (Brazil) | Incidence, trends and survival |
-| **FOSP, RHC** | Hospital-based cancer registry, Fundação Oncocentro de São Paulo | Stage at diagnosis, treatment and survival |
-| **Linked administrative data** | Registry-to-mortality and other record linkages | Follow-up and outcome ascertainment |
-| **Cohort and primary data** | Birth cohorts and cross-sectional field studies | Low birth weight, NCDs, alcohol use in pregnancy |
-
----
-
-## Skills and toolbox
-
-### Data science
-
-| Area | Tools |
-|---|---|
-| **Programming** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Machine learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) Penalized regression, tree ensembles, boosting, hyperparameter tuning, model explainability |
-| **Deep learning and neural networks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) Keras Tuner |
-| **Data handling** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) tidyverse |
-| **Data visualization** | ggplot2, matplotlib, seaborn, plotly, forest plots, Kaplan-Meier curves, calibration plots, nomograms |
-| **Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-
-### Statistics and epidemiology
-
-- **Survival analysis:** Kaplan-Meier, Cox proportional hazards, time-to-event modeling, nomograms
-- **Prediction modeling:** logistic regression risk models, discrimination, calibration, internal validation
-- **Study designs:** cross-sectional, retrospective hospital-based, population-based, cohort
-- **Evidence synthesis:** systematic reviews and meta-analysis
-- **Trends and forecasting:** temporal trend analysis, projections
-- **Complex survey analysis:** weighted analysis of DHS and MIS data
-- **Health economics:** Health Technology Assessment (in training)
-
----
-
-## Selected publications
-
-Full list on [ORCID](https://orcid.org/SEU-ORCID-ID). Selected work by theme:
-
-### Cancer prognosis and surveillance
-
-- Machine learning for predicting mortality in women with breast cancer in Mato Grosso, using linked cancer registry and mortality data. *PLOS One*, 2026. [DOI](https://doi.org/10.1371/journal.pone.0356621)
-- Machine learning for risk stratification of in-hospital mortality in cervical cancer, Mato Grosso. *BMC Cancer*, 2026. [DOI](https://doi.org/10.1186/s12885-026-16771-z)
-- Nomogram predicting overall survival in hospitalized cervical cancer patients in Mato Grosso. *Discover Oncology*, 2025. [DOI](https://doi.org/10.1007/s12672-025-02380-y)
-- Nomogram model for long-term prognosis of cervical cancer patients: a population-based study in Mato Grosso. *BMC Cancer*, 2025. [DOI](https://doi.org/10.1186/s12885-025-14056-5)
-- Time to death from cervical cancer and its predictors in hospitalized patients: a survival approach. *World Journal of Surgical Oncology*, 2024. [DOI](https://doi.org/10.1186/s12957-024-03518-y)
-- Factors associated with advanced diagnosis of cervical cancer in the Brazilian Legal Amazon. *ecancermedicalscience*, 2025. [DOI](https://doi.org/10.3332/ecancer.2025.2045)
-- Trend in cancer incidence in Mato Grosso and its health regions, 2001 to 2018. *Archives of Public Health*, 2025. [DOI](https://doi.org/10.1186/s13690-025-01503-9)
-- Time to death from colorectal cancer in hospitalized patients: a survival study in the Legal Amazon. *Revista JRG de Estudos Acadêmicos*, 2026. [DOI](https://doi.org/10.55892/jrg.v9i21.3639)
-
-### Maternal and child health
-
-- Survival analysis of under-five mortality predictors, Mozambique DHS 2011 and 2022/23. *BMC Public Health*, 2026. [DOI](https://doi.org/10.1186/s12889-026-27197-4)
-- Machine learning models for predicting childhood anemia in Mozambique. *BMC Pediatrics*, 2026. [DOI](https://doi.org/10.1186/s12887-026-06925-0)
-- National and regional trends and forecasting of preterm birth in Brazil, 2014 to 2023, with projections to 2030. *BMC Pregnancy and Childbirth*, 2025. [DOI](https://doi.org/10.1186/s12884-025-08536-6)
-- Predicting low birth weight risks in pregnant women in Brazil using machine learning (Araraquara cohort). *BMC Pregnancy and Childbirth*, 2025. [DOI](https://doi.org/10.1186/s12884-025-07351-3)
-- Predictors of nutritional recovery time in children with severe acute malnutrition in Sofala, Mozambique. *Journal of Public Health*, 2024. [DOI](https://doi.org/10.1093/pubmed/fdae049)
-- Social inequalities in child development: low birth weight trends in Brazil, 2010 to 2020. *Journal of Prevention*, 2024. [DOI](https://doi.org/10.1007/s10935-024-00768-0)
-
-### Antimicrobial resistance and pharmacoepidemiology
-
-- National and regional challenges of antibiotic prescribing in pediatric populations across Africa: systematic review and meta-analysis. *Systematic Reviews*, 2026. [DOI](https://doi.org/10.1186/s13643-026-03223-9)
-- Antimicrobial resistance in Mozambique: the crisis we cannot afford to ignore. *The Lancet Regional Health, Africa*, 2026. [DOI](https://doi.org/10.1016/j.lanafr.2026.100053)
-- An urgent call to combat antimicrobial resistance in sub-Saharan Africa through integrated and innovative solutions. *Discover Public Health*, 2025. [DOI](https://doi.org/10.1186/s12982-025-01083-7)
-- Antibiotic prescribing patterns in pediatric patients using the WHO AWaRe classification, Nampula. *Scientific Reports*, 2024. [DOI](https://doi.org/10.1038/s41598-024-72349-4)
-- Inappropriate use of antibiotics and its predictors in pediatric patients, Nampula. *Antimicrobial Resistance and Infection Control*, 2022. [DOI](https://doi.org/10.1186/s13756-022-01115-w)
-
-### Chronic diseases, risk models and health policy
-
-- A novel clinical nomogram for predicting unfavorable tuberculosis treatment outcomes. *Journal of Epidemiology and Global Health*, 2026. [DOI](https://doi.org/10.1007/s44197-026-00532-z)
-- Prevalence and determinants of chronic non-communicable diseases among prison inmates in Tete, Mozambique. *BMC Public Health*, 2025. [DOI](https://doi.org/10.1186/s12889-025-24387-4)
-- How do structural inequalities influence COVID-19 hospital mortality among traditional peoples and communities? São Paulo, 2021 to 2023. *BMJ Public Health*, 2026. [DOI](https://doi.org/10.1136/bmjph-2025-002679)
-- Why are policies to combat undernutrition not effective in Mozambique? *Nature Communications*, 2026. [DOI](https://doi.org/10.1038/s41467-026-69040-9)
-
----
-
-## Path so far
-
-```mermaid
-timeline
-    title From Pharmacy to Public Health Data Science
-    2016 - 2021 : BSc Pharmacy : Lúrio University, Mozambique
-    2022 : Teaching Assistant : Zambeze University, Mozambique
-    2023 - 2025 : Master's in Public Health : Federal University of Mato Grosso
-    2024 - 2025 : MBA in Data Science and Analytics : University of São Paulo
-    2025 : PhD candidate in Public Health : University of São Paulo
-    2026 - 2027 : Specialization in Health Economics and Management, HTA : UNICAMP
+flowchart LR
+    A[(DHS · MIS)] --> D
+    B[(DATASUS)] --> D
+    C[(RCBP · RHC · Linkage)] --> D
+    D[Cleaning and<br>feature engineering] --> E[Statistical models<br>Cox · logistic · penalized]
+    D --> F[Machine learning<br>and neural networks]
+    E --> G{Validation}
+    F --> G
+    G -->|discrimination<br>calibration<br>external data| H[Nomograms,<br>risk scores,<br>papers]
+    H --> I[Decisions<br>and policy]
+    style D fill:#0e7490,color:#fff,stroke:#0e7490
+    style G fill:#7c3aed,color:#fff,stroke:#7c3aed
+    style I fill:#16a34a,color:#fff,stroke:#16a34a
 ```
 
 ---
 
-## Peer review
+## 🧰 Toolbox
 
-I review manuscripts for:
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=r,py,postgres,sklearn,tensorflow,pandas,numpy,git,github&perline=9" alt="tools"/>
+
+</div>
+
+| | |
+|---|---|
+| **Programming** | R · Python · SQL |
+| **Machine learning** | scikit-learn, penalized regression, tree ensembles and boosting, hyperparameter tuning, explainability |
+| **Deep learning** | Neural networks with TensorFlow and Keras, Keras Tuner |
+| **Statistics** | Kaplan-Meier, Cox models, logistic risk models, nomograms, calibration, complex survey analysis, trend forecasting |
+| **Evidence synthesis** | Systematic reviews and meta-analysis |
+| **Data visualization** | ggplot2, matplotlib, seaborn, plotly: Kaplan-Meier curves, forest plots, calibration plots, nomograms |
+| **Workflow** | Git, GitHub, Jupyter, reproducible pipelines |
+
+---
+
+## 📄 Selected publications
+
+Everything is on [ORCID](https://orcid.org/SEU-ORCID-ID). A selection by theme:
+
+<details open>
+<summary><b>🎗️ Cancer prognosis and surveillance</b></summary>
+<br>
+
+| Year | Title | Journal | |
+|:-:|---|---|:-:|
+| 2026 | Machine learning to predict mortality in women with breast cancer, Mato Grosso (linked registry and mortality data) | PLOS One | [DOI](https://doi.org/10.1371/journal.pone.0356621) |
+| 2026 | Machine learning for risk stratification of in-hospital mortality in cervical cancer | BMC Cancer | [DOI](https://doi.org/10.1186/s12885-026-16771-z) |
+| 2026 | Time to death from colorectal cancer in hospitalized patients, Legal Amazon | Rev. JRG de Estudos Acadêmicos | [DOI](https://doi.org/10.55892/jrg.v9i21.3639) |
+| 2025 | Nomogram for overall survival in hospitalized cervical cancer patients | Discover Oncology | [DOI](https://doi.org/10.1007/s12672-025-02380-y) |
+| 2025 | Nomogram for long-term prognosis of cervical cancer, population-based | BMC Cancer | [DOI](https://doi.org/10.1186/s12885-025-14056-5) |
+| 2025 | Factors associated with advanced diagnosis of cervical cancer | ecancermedicalscience | [DOI](https://doi.org/10.3332/ecancer.2025.2045) |
+| 2025 | Trend in cancer incidence in Mato Grosso, 2001 to 2018 | Archives of Public Health | [DOI](https://doi.org/10.1186/s13690-025-01503-9) |
+| 2024 | Time to death from cervical cancer and its predictors: a survival approach | World J Surg Oncol | [DOI](https://doi.org/10.1186/s12957-024-03518-y) |
+
+</details>
+
+<details open>
+<summary><b>👶 Maternal and child health</b></summary>
+<br>
+
+| Year | Title | Journal | |
+|:-:|---|---|:-:|
+| 2026 | Survival analysis of under-five mortality predictors, Mozambique DHS 2011 and 2022/23 | BMC Public Health | [DOI](https://doi.org/10.1186/s12889-026-27197-4) |
+| 2026 | Machine learning models to predict childhood anemia in Mozambique | BMC Pediatrics | [DOI](https://doi.org/10.1186/s12887-026-06925-0) |
+| 2025 | Trends and forecasting of preterm birth in Brazil, 2014 to 2023, projections to 2030 | BMC Pregnancy Childbirth | [DOI](https://doi.org/10.1186/s12884-025-08536-6) |
+| 2025 | Predicting low birth weight with machine learning, Araraquara cohort | BMC Pregnancy Childbirth | [DOI](https://doi.org/10.1186/s12884-025-07351-3) |
+| 2024 | Predictors of nutritional recovery time in severe acute malnutrition, Sofala | J Public Health | [DOI](https://doi.org/10.1093/pubmed/fdae049) |
+| 2024 | Social inequalities in child development: low birth weight trends in Brazil | J Prevention | [DOI](https://doi.org/10.1007/s10935-024-00768-0) |
+
+</details>
+
+<details open>
+<summary><b>💊 Antimicrobial resistance and pharmacoepidemiology</b></summary>
+<br>
+
+| Year | Title | Journal | |
+|:-:|---|---|:-:|
+| 2026 | Antibiotic prescribing in pediatric populations across Africa: systematic review and meta-analysis | Systematic Reviews | [DOI](https://doi.org/10.1186/s13643-026-03223-9) |
+| 2026 | Antimicrobial resistance in Mozambique: the crisis we cannot afford to ignore | Lancet Reg Health Africa | [DOI](https://doi.org/10.1016/j.lanafr.2026.100053) |
+| 2025 | An urgent call to combat antimicrobial resistance in sub-Saharan Africa | Discover Public Health | [DOI](https://doi.org/10.1186/s12982-025-01083-7) |
+| 2024 | Antibiotic prescribing in children using the WHO AWaRe classification, Nampula | Scientific Reports | [DOI](https://doi.org/10.1038/s41598-024-72349-4) |
+| 2022 | Inappropriate use of antibiotics and its predictors in hospitalized children | Antimicrob Resist Infect Control | [DOI](https://doi.org/10.1186/s13756-022-01115-w) |
+
+</details>
+
+<details>
+<summary><b>🫀 Chronic diseases, risk models and policy</b></summary>
+<br>
+
+| Year | Title | Journal | |
+|:-:|---|---|:-:|
+| 2026 | A novel clinical nomogram for unfavorable tuberculosis treatment outcomes | J Epidemiol Glob Health | [DOI](https://doi.org/10.1007/s44197-026-00532-z) |
+| 2026 | Structural inequalities and COVID-19 hospital mortality among traditional peoples, São Paulo | BMJ Public Health | [DOI](https://doi.org/10.1136/bmjph-2025-002679) |
+| 2026 | Why are policies to combat undernutrition not effective in Mozambique? | Nature Communications | [DOI](https://doi.org/10.1038/s41467-026-69040-9) |
+| 2025 | Chronic non-communicable diseases among prison inmates in Tete, Mozambique | BMC Public Health | [DOI](https://doi.org/10.1186/s12889-025-24387-4) |
+
+</details>
+
+---
+
+## 🧭 Roadmap
+
+- [ ] **External validation in Africa.** Machine learning survival models for infant mortality that are tested on data from other African countries, not only where they were trained
+- [ ] **Resistance trends.** Systematic reviews to understand how antimicrobial resistance is growing in clinically important microorganisms
+- [ ] **Diabetes and hypertension.** Prevalence, determinants and prediction for key non-communicable diseases
+- [ ] **HTA meets prediction.** Judging models by whether they change decisions and costs, not only by accuracy
+- [x] Cancer prognosis models for Mato Grosso, published
+- [x] Child health prediction with national survey data, published
+
+---
+
+## 🏛️ Affiliations and groups
+
+| | |
+|---|---|
+| **AI for oncologic prognosis** | Faculty of Public Health, University of São Paulo |
+| **VigiCan UFMT** | Cancer surveillance in Mato Grosso, Federal University of Mato Grosso |
+| **Zambeze University** | Faculty of Health Sciences, Pharmacy (Teaching Assistant) |
+
+**Peer reviewer for**
 ![BMJ Open](https://img.shields.io/badge/BMJ%20Open-0b5cad?style=flat-square)
-![PLOS Global Public Health](https://img.shields.io/badge/PLOS%20Global%20Public%20Health-d6422a?style=flat-square)
+![PLOS Global Public Health](https://img.shields.io/badge/PLOS%20GPH-d6422a?style=flat-square)
 ![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-1c1c1c?style=flat-square)
 ![BMC Public Health](https://img.shields.io/badge/BMC%20Public%20Health-2f6f4f?style=flat-square)
 ![Global Health Action](https://img.shields.io/badge/Global%20Health%20Action-0e7490?style=flat-square)
@@ -200,50 +275,36 @@ I review manuscripts for:
 
 ---
 
-## Projects on GitHub
+## 🎓 Path
 
-### House price prediction with neural networks
+```mermaid
+timeline
+    title From Pharmacy to Public Health Data Science
+    2016 - 2021 : BSc Pharmacy : Lúrio University, Mozambique
+    2022 : Teaching Assistant : Zambeze University
+    2023 - 2025 : Master's in Public Health : UFMT
+    2024 - 2025 : MBA in Data Science and Analytics : USP
+    2025 : PhD candidate in Public Health : USP
+    2026 - 2027 : Health Economics and Management, HTA : UNICAMP
+```
 
-A hands-on project to push regression with neural networks on tabular data. I started with a baseline, added regularization, then tuned hyperparameters with Keras Tuner and compared everything on MAE, RMSE and R².
+---
 
-| Metric | Tuned model (validation) |
-|---|---:|
-| MAE | 22,562.29 |
-| RMSE | 35,632.88 |
-| R² | **0.8345** |
+## 🚀 Project spotlight
+
+**House price prediction with neural networks.** A practice project in regression on tabular data: baseline model, regularization, then hyperparameter tuning with Keras Tuner, compared on MAE, RMSE and R².
+
+| MAE | RMSE | R² |
+|:-:|:-:|:-:|
+| 22,562.29 | 35,632.88 | **0.8345** |
 
 `Python` `pandas` `scikit-learn` `TensorFlow` `Keras Tuner`
 
-### Survival and prediction code *(in progress)*
-
-Reproducible pipelines for the survival and machine learning models behind my cancer and child health papers. Code will be linked here as it becomes public.
+Code for the survival and ML pipelines behind my papers will be added here as it becomes public.
 
 ---
 
-## Where I'm heading
-
-**Research I want to build next**
-
-1. **Externally validated survival models for infant mortality in Africa.** Machine learning models for child survival that are tested on data from other African countries, not only the one where they were trained. A model that works in one country and fails in the next isn't much use for policy.
-2. **Systematic reviews of antimicrobial resistance trends.** Mapping how resistance is growing in the microorganisms that matter most clinically, and where the evidence is thin.
-3. **Diabetes and hypertension.** Non-communicable chronic diseases, with a focus on prevalence, determinants and prediction.
-4. **Health economics.** Bringing HTA into my prediction work, so models are judged not just on accuracy but on whether they change decisions and costs.
-
-**Always on:** model calibration and clinical utility, explainable machine learning, and reproducible, open analysis.
-
----
-
-<details>
-<summary><b>Away from the screen</b></summary>
-<br>
-
-I read about social inequalities, development economics, data science and writing, and I follow what's new in epidemiology and health sciences. I also play chess. It rewards the same habits as research: patience, planning ahead, and admitting when a move was wrong.
-
-</details>
-
----
-
-## GitHub analytics
+## 📊 GitHub analytics
 
 <div align="center">
 
@@ -258,16 +319,28 @@ I read about social inequalities, development economics, data science and writin
 
 ---
 
+<details>
+<summary><b>♟️ Away from the screen</b></summary>
+<br>
+
+I read about social inequalities, development economics, data science and writing, and I follow what's new in epidemiology and health sciences. I also play chess. It rewards the same habits as research: patience, planning ahead, and admitting when a move was wrong.
+
+</details>
+
+---
+
+## Contact
+
 <div align="center">
 
-### Let's talk
-
-If your work touches cancer epidemiology, child health, antimicrobial resistance, HTA or applied machine learning, I'd like to hear about it.
+If your work touches cancer epidemiology, child health, antimicrobial resistance, HTA or applied machine learning, I'd like to hear from you.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sancho2023-181717?style=for-the-badge&logo=github)](https://github.com/sancho2023)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e7490,100:0f172a&height=110&section=footer" width="100%" alt=""/>
+<sub>Turning data into evidence, and evidence into decisions.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e7490,100:020617&height=120&section=footer" width="100%" alt=""/>
 
 </div>
