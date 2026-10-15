@@ -1,206 +1,132 @@
-# Sancho-Xavier
-
-
 <div align="center">
 
-# 🧬 SANCHO XAVIER
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:38bdf8&height=230&section=header&text=Sancho%20Pedro%20Xavier&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Epidemiology%20%C2%B7%20Health%20Economics%20%C2%B7%20Data%20Science&descAlignY=60&descSize=18" width="100%" alt="Sancho Pedro Xavier banner"/>
 
-### EPIDEMIOLOGIST · DATA SCIENTIST · QUANTITATIVE RESEARCHER
+**Pharmacist by training. Epidemiologist by choice. Data person by habit.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Turning+Complex+Data+into+Scientific+Evidence;Epidemiology+%7C+Biostatistics+%7C+Machine+Learning;Survival+Analysis+%7C+Predictive+Modeling;Data+Science+for+Better+Health+Outcomes)](https://git.io/typing-svg)
+[![PhD](https://img.shields.io/badge/PhD%20Candidate-University%20of%20S%C3%A3o%20Paulo-0e7490?style=for-the-badge)](https://github.com/sancho2023)
+[![Specialization](https://img.shields.io/badge/HTA-UNICAMP%202026--27-1d4ed8?style=for-the-badge)](https://github.com/sancho2023)
+[![Reviewer](https://img.shields.io/badge/Peer%20Reviewer-9%20journals-7c3aed?style=for-the-badge)](https://github.com/sancho2023)
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sancho2023)
-[![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-Statistical%20Computing-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+## Hello
 
-I am an **epidemiologist and data scientist** with a strong interest in quantitative methods, biostatistics, big data analytics, and machine learning.
+I'm a PhD candidate in Public Health at the **University of São Paulo**, studying the epidemiology of diseases and health conditions and what determines them. I came to this field through Pharmacy in Mozambique, moved to Brazil for my Master's, and kept adding tools along the way: first epidemiology, then data science, now health economics.
 
-My work and research interests focus on applying advanced statistical and computational methods to complex epidemiological questions, particularly in **cancer research, survival analysis, predictive modeling, and population health**.
+Most days I'm writing R or Python, cleaning messy health data, and trying to answer one question: *what does the evidence actually say, and how sure are we?*
 
-I am passionate about transforming complex datasets into meaningful scientific evidence through rigorous statistical analysis, reproducible research, and data-driven approaches.
-
-- 🎓 PhD research in Epidemiology
-- 📊 Strong interest in quantitative methods and biostatistics
-- 🧠 Machine learning and predictive analytics
-- 🧬 Survival analysis and cancer epidemiology
-- 🌍 Data-driven approaches to public health challenges
-- 🔬 Research reproducibility and scientific computing
-
-> **My mission:** To bridge epidemiology, statistics, and machine learning to generate robust evidence and improve health research.
+> Quantitative methods are only useful if someone can trust, reproduce and act on the result.
 
 ---
 
-## 🔬 Research & Technical Interests
+## Research focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Statistical & Quantitative Methods
-
-- Biostatistics
-- Statistical modeling
-- Survival analysis
-- Cox proportional hazards models
-- Competing risks analysis
-- Model validation and calibration
-- Statistical learning
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Data Science & AI
-
-- Machine learning
-- Predictive modeling
-- Big data analytics
-- Feature selection and regularization
-- Model explainability
-- Performance evaluation
-- Data visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Epidemiology & Public Health
-
-- Cancer epidemiology
-- Population health
-- Health outcomes research
-- Clinical and epidemiological prediction
-- Health inequalities
-- Evidence-based decision-making
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Current Research Directions
-
-- Cancer survival prediction
-- Risk stratification
-- Classical versus machine learning models
-- Model discrimination and calibration
-- Explainable predictive modeling
-- Reproducible analytical workflows
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Chronic disease** | Non-communicable chronic diseases and their determinants |
+| **Mothers and children** | Maternal and child health, infant mortality |
+| **Medicines** | Pharmacoepidemiology, antimicrobial resistance |
+| **Value for money** | Health economics and management, with a focus on Health Technology Assessment (HTA) |
+| **Prediction** | Predictive modeling for health outcomes |
 
 ---
 
-## 🛠️ Technologies & Tools
+## Path so far
 
-<div align="center">
-
-### Programming & Statistical Computing
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Machine Learning & Data Analysis
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Research & Development
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+```mermaid
+timeline
+    title From Pharmacy to Public Health Data Science
+    2016 - 2021 : BSc Pharmacy : Lúrio University, Mozambique
+    2022 : Teaching Assistant : Zambeze University, Mozambique
+    2023 - 2025 : Master's in Public Health : Federal University of Mato Grosso
+    2024 - 2025 : MBA in Data Science and Analytics : University of São Paulo
+    2025 : PhD candidate in Public Health : University of São Paulo
+    2026 - 2027 : Specialization in Health Economics and Management, HTA : UNICAMP
+```
 
 ---
 
-## 🚀 Featured Projects
+## Peer review
 
-### 🏠 House Price Prediction with Neural Networks
+I review manuscripts for:
 
-Developing neural network regression models to predict residential property prices.
+![BMJ Open](https://img.shields.io/badge/BMJ%20Open-0b5cad?style=flat-square)
+![PLOS Global Public Health](https://img.shields.io/badge/PLOS%20Global%20Public%20Health-d6422a?style=flat-square)
+![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-1c1c1c?style=flat-square)
+![BMC Public Health](https://img.shields.io/badge/BMC%20Public%20Health-2f6f4f?style=flat-square)
+![Global Health Action](https://img.shields.io/badge/Global%20Health%20Action-0e7490?style=flat-square)
+![Health Science Reports](https://img.shields.io/badge/Health%20Science%20Reports-6d28d9?style=flat-square)
+![Discover Health Systems](https://img.shields.io/badge/Discover%20Health%20Systems-b45309?style=flat-square)
+![J Int Med Res](https://img.shields.io/badge/J%20Int%20Med%20Res-be123c?style=flat-square)
+![Acta Parasitologica](https://img.shields.io/badge/Acta%20Parasitologica-475569?style=flat-square)
 
-**Key components:**
-- Data preprocessing and feature engineering
-- Baseline and regularized neural networks
-- Hyperparameter optimization with Keras Tuner
-- Model comparison using MAE, RMSE, and R²
+---
 
-**Best validation results:**
+## Projects
 
-| Metric | Optimized Model |
+### House price prediction with neural networks
+
+A hands-on project to push regression with neural networks on tabular data. I started with a baseline, added regularization, then tuned hyperparameters with Keras Tuner and compared everything on MAE, RMSE and R².
+
+| Metric | Tuned model (validation) |
 |---|---:|
 | MAE | 22,562.29 |
 | RMSE | 35,632.88 |
-| R² | 0.8345 |
+| R² | **0.8345** |
 
-**Technologies:** Python, Pandas, Scikit-learn, TensorFlow, Keras, Keras Tuner
+`Python` `pandas` `scikit-learn` `TensorFlow` `Keras Tuner`
 
-🔗 Explore the repository: [House Price Prediction](https://github.com/sancho2023)
+### Survival analysis and prediction in health *(in progress)*
 
-### 🧬 Survival Analysis & Cancer Research
-
-Research interests include developing and evaluating statistical and machine learning models for cancer survival and prognosis.
-
-**Methods of interest:**
-- Cox proportional hazards regression
-- Penalized regression: LASSO, Ridge, and Elastic Net
-- Competing risks and cumulative incidence
-- Survival prediction and risk stratification
-- Discrimination, calibration, and model validation
-- Explainable machine learning
-
-*Project repositories and research outputs will be linked here as they become publicly available.*
+Comparing classical survival models (Cox, penalized regression) with machine learning, judged on discrimination, calibration and clinical usefulness rather than accuracy alone. Code and papers will be linked here as they become public.
 
 ---
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>Toolbox in detail</b></summary>
+<br>
+
+| Area | What I use |
+|---|---|
+| Statistics | Regression, survival analysis, penalized models, model validation and calibration |
+| Machine learning | scikit-learn, TensorFlow/Keras, hyperparameter tuning, explainability |
+| Data work | pandas, NumPy, SQL, tidy R workflows |
+| Reproducibility | Git, GitHub, Jupyter, documented pipelines |
+
+</details>
+
+<details>
+<summary><b>Away from the screen</b></summary>
+<br>
+
+I read about social inequalities, development economics, data science and writing, and I follow what's new in epidemiology and health sciences. I also play chess. It rewards the same habits as research: patience, planning ahead, and admitting when a move was wrong.
+
+</details>
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sancho2023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sancho2023&layout=compact&theme=tokyonight&hide_border=true&card_width=420)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sancho2023&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sancho2023&layout=compact&theme=tokyonight&hide_border=true)
+### Let's talk
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sancho2023&theme=tokyonight&hide_border=true)
+Epidemiology, HTA, pharmacoepidemiology or applied data science: if your work overlaps with mine, I'd like to hear about it.
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-sancho2023-181717?style=for-the-badge&logo=github)](https://github.com/sancho2023)
 
----
-
-## What I Am Exploring
-
-- Advanced survival analysis and competing risks
-- Machine learning for epidemiological prediction
-- Deep learning for structured health data
-- Model calibration and clinical utility
-- Explainable AI in health research
-- Reproducible data science and open research
-
----
-
-## 🤝 Let's Connect
-
-I welcome opportunities to exchange ideas, collaborate on research, and develop data-driven solutions to complex public health problems.
-
-**Areas for collaboration:** Epidemiology · Biostatistics · Machine Learning · Survival Analysis · Health Data Science
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github)](https://github.com/sancho2023)
-
-**Turning data into evidence. Evidence into knowledge. Knowledge into impact.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e7490,100:0f172a&height=110&section=footer" width="100%" alt=""/>
 
 </div>
